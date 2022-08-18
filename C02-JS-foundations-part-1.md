@@ -1,7 +1,5 @@
 # JavaScript Foundations - Part 1 (Class 2)
 
-- Use node or the browser to execute your code. I recommend node.
-
 ## Exercise #0: Before getting started 
 - Create a file called foundations.txt 
 - Answer the following questions in your own words:
