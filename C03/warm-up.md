@@ -1,6 +1,6 @@
 # Warm Up Exercise
 
-Define a function called `isInteger` and a `parameter` called num (see below for example). This function will return `true` if the num is an integer. Otherwise, it will be false.
+Define a function called `isInteger` and a `parameter` called num (see below for example). This function will return `true` if num is an integer. Otherwise, it will be false.
 
 Note: Integers are whole numbers (1,2,23,44, ect). Integers do not have decimal points.
 
