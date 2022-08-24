@@ -59,7 +59,10 @@ Write a function min(a,b) which returns the least of two numbers a and b.
 For instance:
 
 min(2, 5) == 2
+<br>
 min(3, -1) == -1
+<br>
+
 min(1, 1) == 1
 
 ---
@@ -70,8 +73,11 @@ min(1, 1) == 1
 Write a function pow(x,n) that returns x in power n. Or, in other words, multiplies x by itself n times and returns the result.
 
 pow(3, 2) = 3 * 3 = 9
+<br>
 pow(3, 3) = 3 * 3 * 3 = 27
+<br>
 pow(1, 100) = 1 * 1 * ...* 1 = 1
+<br>
 
 ---
 
