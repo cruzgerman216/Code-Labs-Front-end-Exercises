@@ -28,7 +28,7 @@ Will the sayHi call show 'john' or 'pete'. Before executing the code, think abou
 
 You have solved this exercise when you understand the solution.
 
-(source)[https://javascript.info/closure]
+[source](https://javascript.info/closure)
 
 ---
 
@@ -62,7 +62,7 @@ Which value it will show? “Pete” or “John”? Before executing the code, t
 
 You have solved this exercise when you understand the solution.
 
-(source)[https://javascript.info/closure]
+[source](https://javascript.info/closure)
 
 ---
 
@@ -97,7 +97,7 @@ Before executing the code, think about this. To check your answer, execute this 
 
 You have solved this exercise when you understand the solution.
 
-(source)[https://javascript.info/closure]
+[source](https://javascript.info/closure)
 
 ## Exercise #4: Base times height
 
