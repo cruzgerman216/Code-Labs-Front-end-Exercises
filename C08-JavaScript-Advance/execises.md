@@ -1,12 +1,12 @@
 # JavaScript Advance Concepts
 
-** Read before getting started. Create a folder called `code-labs`. In `code-labs`, create an additional folder called `class-7-advance-javascript`. You will be working in class 7 for today**
+** Read before getting started. Create a folder called `code-labs`. In `code-labs`, create an additional folder called `class-8-advance-javascript`. You will be working in class 7 for today**
 
 _This is the time to experiment_
 
 ## Exercise #1: Plus Num
 
-Create a folder in `class-7-advance-javascript` called `exercise-1`. Create the necessary files in this folder to solve the exercise.
+Create a folder in `class-8-advance-javascript` called `exercise-1`. Create the necessary files in this folder to solve the exercise.
 
 **Aim**: Create a function that takes a "base number" as an argument. This function should return another function that takes a new argument and returns the sum of the "base number" and the new argument.
 
@@ -46,7 +46,7 @@ _Notes_
 
 ## Exercise #2: Closures
 
-In `class-7-advance-javascript`, create a folder called `exercise-2`. Create the necessary files in this folder to solve the exercise.
+In `class-8-advance-javascript`, create a folder called `exercise-2`. Create the necessary files in this folder to solve the exercise.
 
 **Aim**: Create a function that takes a string as input, capitalizes a letter if its ASCII code is even, and returns its lower case version if its ASCII code is odd.
 
@@ -66,7 +66,7 @@ asciiCapitalize("Oh what a beautiful morning.")    ➞    "oH wHaT a BeauTiFuL m
 
 ## Exercise #3:
 
-In `class-6`, create a folder called `exercise-3`. Create the necessary files in this folder to solve the exercise.
+In `class-8`, create a folder called `exercise-3`. Create the necessary files in this folder to solve the exercise.
 
 **Aim**: Create a function to check if a candidate is qualified in an imaginary coding interview of an imaginary tech startup.
 
@@ -108,7 +108,7 @@ interview([5, 5, 10, 10, 15, 15, 20, 20], 130)    ➞    "disqualified"
 
 ## Exercise #4: User class
 
-Create a folder in `class-7-advance-javascript` called `exercise-4`. Create the necessary files in this folder to solve the exercise.
+Create a folder in `class-8-advance-javascript` called `exercise-4`. Create the necessary files in this folder to solve the exercise.
 
 Defined below is a user class.
 
@@ -133,7 +133,7 @@ When an instance calls `printName`, it should print out the user's name.
 
 ## Exercise #5: Fake Social Media app
 
-Create a folder in `class-7-advance-javascript` called `exercise-5`. Create the necessary files in this folder to solve the exercise.
+Create a folder in `class-8-advance-javascript` called `exercise-5`. Create the necessary files in this folder to solve the exercise.
 
 Use the Observable pattern to update information on a given webpage. 
 
