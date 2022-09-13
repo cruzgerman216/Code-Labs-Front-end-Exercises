@@ -44,7 +44,7 @@ _Notes_
 
 ---
 
-## Exercise #2: Closures
+## Exercise #2: 
 
 In `class-8-advance-javascript`, create a folder called `exercise-2`. Create the necessary files in this folder to solve the exercise.
 
