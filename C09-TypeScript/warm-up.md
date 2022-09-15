@@ -31,7 +31,6 @@ function reciteMyOrders(customerOrders) {
 
 reciteMyOrders(orders);
 
-// Solution
 // Nachos with Cheese
 // Chile Relleno, Burrito, & Rice
 // Flauta, Chicken Quesadilla, & Taco
