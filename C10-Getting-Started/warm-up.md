@@ -16,4 +16,4 @@ addTwoExceptToOddNumbers([101,1,4,10]); // [101,1,6,12]
 
 ## Exercise 2: 
 
-Use `setTimeout` to append a red 200px by 200x onto the body of a webpage every half second.
+Use `setInterval` to append a red 200px by 200x onto the body of a webpage every half second.
