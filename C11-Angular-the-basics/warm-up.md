@@ -2,7 +2,7 @@
 
 ## Exercise 1: 
 
-Evaluate the expression of a and b depending on what the parameter of operator is. 
+Evaluate the expression of a and b depending on what `operator` is (..see defined function below). 
 
 ```js
 
@@ -10,8 +10,8 @@ function calculate(a, b, operator) {
   // write your logic here
 }
 
-addTwoExceptToOddNumbers(1,1, "+"); // 2
-addTwoExceptToOddNumbers(2, 2, '-'); // 0
+calculate(1,1, "+"); // 2
+calculate(2, 2, '-'); // 0
 ```
 
 ## Exercise 2: 
