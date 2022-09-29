@@ -21,7 +21,7 @@ updateNames(name); // "Hello, my name is Amy. My friend's name is also Amy."
 
 
 # Exercise 2
-Given the string
+Given the variable
 ```js
 let sentence = "My name is John!";
 ```
