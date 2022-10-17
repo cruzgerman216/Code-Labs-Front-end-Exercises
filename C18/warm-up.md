@@ -38,3 +38,8 @@ let users = [
 
 ## Exercise 2
 Define a function that will convert a number (kilometers) into miles.
+
+### Bonus 
+Add an input field and allow the user to enter a number. Allow the user to submit the number to be convereted into miles. 
+
+Include the result onto the webpage.
